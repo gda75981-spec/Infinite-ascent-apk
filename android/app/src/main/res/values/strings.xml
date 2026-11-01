@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Infinite Ascent</string>
+    <string name="title_activity_main">Infinite Ascent</string>
+    <string name="package_name">com.infiniteascent.game</string>
+    <string name="custom_url_scheme">com.infiniteascent.game</string>
+</resources>

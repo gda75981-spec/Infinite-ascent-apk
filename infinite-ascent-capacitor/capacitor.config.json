@@ -1,0 +1,6 @@
+{
+  "appId": "com.infiniteascent.game",
+  "appName": "Infinite Ascent",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
